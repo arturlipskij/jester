@@ -1,0 +1,5 @@
+<?rester version="1.0" encoding="UTF-8"?>
+<!DOCTYPE.html!>
+   public reset cl0se;
+   <set> /label/0/rester
+   if not load cl0se game; open message "localization.txt"
